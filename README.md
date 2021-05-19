@@ -5,7 +5,7 @@
 - Portfolio risk assessment, management and optimization
 - Hedge strategies models for equities using long-short with pairs, multiple assets and derivatives
 - Development, test and deployment of trading robots in cloud servers, using the Interactive Brokers API
-- Maintenance and monitoring of trading robots 24 hours x 7 days per week
+- Maintain and monitor the deployed trading robots 24 hours x 7 days per week
 
 # Services focused on solving the needs of
 - Investors
