@@ -1,5 +1,4 @@
 # Main Services:
-
 - Define and refine investment and trading strategies
 - Quantitave research and development using mathematical, statistical and machine learning tools, such as Neural Networks and Deep Reinforcement Learning
 - Perform backtesting simulations for further refinement of strategies and their parameters
@@ -8,7 +7,7 @@
 - Development, test and deployment of trading robots in cloud servers, using the Interactive Brokers API
 - Maintenance and monitoring of trading robots 24 hours x 7 days per week
 
-# Target clients
+# Services focused on solving the needs of
 - Investors
 - Traders
 - Hedge funds
