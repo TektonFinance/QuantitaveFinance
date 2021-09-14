@@ -10,7 +10,7 @@
 - Maintain and monitor the deployed trading robots 24 hours x 7 days per week
 
 ## Services focused on solving the needs of
-- Invividual investors and traders
+- Individual investors and traders
 - Hedge funds
 - Asset Management 
 - Brokers
