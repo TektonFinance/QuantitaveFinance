@@ -1,4 +1,6 @@
-# Main Services:
+# Tekton-Quantitative-Finance
+
+## Main Services:
 - Define and refine investment and trading strategies
 - Quantitave research and development using mathematical, statistical and machine learning tools, such as Neural Networks and Deep Reinforcement Learning
 - Perform backtesting simulations for further refinement of strategies and their parameters
@@ -7,13 +9,13 @@
 - Development, test and deployment of trading robots in cloud servers, using the Interactive Brokers API
 - Maintain and monitor the deployed trading robots 24 hours x 7 days per week
 
-# Services focused on solving the needs of
+## Services focused on solving the needs of
 - Invividual investors and traders
 - Hedge funds
 - Asset Management 
 - Brokers
 
-# Language and libraries used
+## Language and libraries used
 - Python
 - statstools
 - tensorflow
@@ -25,7 +27,7 @@
 - ta-lib
 - ... (many others)
 
-# Management tools
+## Management tools
 - Agile methodology Scrum
 
 for more information, get in touch: rob@ventur.as
